@@ -41,5 +41,5 @@ For case 2:
 
 ```
 Case 2: {outlook=‘overcast’ and temperature=‘mild’}
-Prediction: ['Yes']
+Decision: ['Yes']
 ```
