@@ -1,1 +1,1 @@
-# Na-ve-Bayes-Classifier-Implementation
+# Naive-Bayes Classifier Implementation
