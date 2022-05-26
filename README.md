@@ -1,5 +1,5 @@
 # Naive-Bayes Classifier Implementation
-The objective of this project is to implement a Naive-Bayes classifier algorithm to train two different cases:
+The objective of this project was to implement a Naive-Bayes classifier algorithm to train two different cases:
 
 
 ## Case 1
